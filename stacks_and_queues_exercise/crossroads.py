@@ -1,3 +1,4 @@
+import sys
 from collections import deque
 import re
 
@@ -37,20 +38,11 @@ while not car == "END":
                         crash = True
                         print(f"A crash happened!")
                         print(f"{current_car} was hit at {current_symbol}.")
-                        break
+                        sys.exit()
 
-                if crash:
-                    break
                 passed += 1
 
-            if crash:
-                break
             car_queue.clear()
-
-        if crash:
-            break
-    if crash:
-        break
 
     car = input()
 
