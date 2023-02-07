@@ -27,5 +27,3 @@ first = sorted(first)
 second = sorted(second)
 print(f"{', '.join([str(x) for x in first])}")
 print(f"{', '.join([str(x) for x in second])}")
-
-

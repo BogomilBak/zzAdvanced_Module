@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe0c9ec-09d8-44f0-8e08-c272d3452380" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/zzAdvanced_Module.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zzAdvanced_Module.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stacks_queues_tuples_sets_exercise/expression_evaluator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stacks_queues_tuples_sets_exercise/numbers.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cbfcc0c2-d6ea-4f7a-8869-9bc4fe0a46b6" />
+        <option name="url" value="https://github.com/BogomilBak/zzAdvanced_Module.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2L66lTsNwPTalv1zoou0JzEOf5H" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -29,11 +51,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "G:/GitHub/zzFundamentals_Python"
+    "last_opened_file_path": "G:/GitHub/zzAdvanced_Module/stacks_and_queues_exercise",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "reference.idesettings.debugger.python",
+    "two.files.diff.last.used.folder": "G:/GitHub/zzAdvanced_Module/stacks_and_queues_exercise"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.party">
-    <configuration name="battle_names" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="PyDebuggerOptionsProvider">
+    <option name="mySaveCallSignatures" value="true" />
+    <option name="mySupportGeventDebugging" value="true" />
+    <option name="myDropIntoDebuggerOnFailedTests" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.expression_evaluator">
+    <configuration name="asd_asd_asd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -41,11 +71,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuples_sets_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples_sets_exercise/battle_names.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_1/asd_asd_asd.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,11 +92,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stacks_queues_tuples_sets_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mixed_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stacks_queues_tuples_sets_exercise/expression_evaluator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mixed_exercise/expression_evaluator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="parking_lot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numbers_omg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuples_sets_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mixed_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples_sets_lab/parking_lot.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mixed_exercise/numbers_omg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="party" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +155,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tuples_sets_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stacks_queues_tuples_sets_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples_sets_lab/party.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stacks_queues_tuples_sets_exercise/test_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,13 +168,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.asd_asd_asd" />
+      <item itemvalue="Python.numbers_omg" />
+      <item itemvalue="Python.test_1 (1)" />
+      <item itemvalue="Python.expression_evaluator" />
+      <item itemvalue="Python.numbers" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.party" />
-        <item itemvalue="Python.parking_lot" />
         <item itemvalue="Python.expression_evaluator" />
+        <item itemvalue="Python.numbers_omg" />
+        <item itemvalue="Python.test_1 (1)" />
         <item itemvalue="Python.numbers" />
-        <item itemvalue="Python.battle_names" />
+        <item itemvalue="Python.asd_asd_asd" />
       </list>
     </recent_temporary>
   </component>
@@ -252,6 +289,15 @@
           <url>file://$PROJECT_DIR$/stacks_queues_tuples_sets_exercise/expression_evaluator.py</url>
           <line>13</line>
           <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tuples_sets_lab/party.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/s_q_t_sets_exercise/numbers.py</url>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
