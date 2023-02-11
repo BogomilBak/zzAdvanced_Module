@@ -10,3 +10,6 @@ total_sum = 0
 
 for element in matrix:
     total_sum += sum(element)
+
+print(total_sum)
+print(matrix)
