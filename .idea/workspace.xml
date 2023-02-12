@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe0c9ec-09d8-44f0-8e08-c272d3452380" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/matrix_exercise_1/2_2_squares_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_exercise_1/diagonal_difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_exercise_1/matrix_shuffling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_exercise_1/maximal_sum_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_exercise_1/palindrome_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix_exercise_1/snake_moves.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matrix_exercise_2/bunny_kill.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +63,8 @@
     <option name="mySupportGeventDebugging" value="true" />
     <option name="myDropIntoDebuggerOnFailedTests" value="true" />
   </component>
-  <component name="RunManager" selected="Python.matrix_shuffling">
-    <configuration name="2_2_squares_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bunny_kill">
+    <configuration name="bunny_kill" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,32 +72,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_exercise_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_exercise_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_exercise_1/2_2_squares_matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="diagonal_difference" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="zzAdvanced_Module" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_exercise_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_exercise_1/diagonal_difference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_exercise_2/bunny_kill.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,20 +148,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="snake_moves" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="zzAdvanced_Module" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_exercise_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_exercise_1/snake_moves.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.2_2_squares_matrix" />
-      <item itemvalue="Python.diagonal_difference" />
+      <item itemvalue="Python.bunny_kill" />
+      <item itemvalue="Python.snake_moves" />
       <item itemvalue="Python.matrix_shuffling" />
       <item itemvalue="Python.maximal_sum_matrix" />
       <item itemvalue="Python.palindrome_matrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bunny_kill" />
+        <item itemvalue="Python.snake_moves" />
         <item itemvalue="Python.matrix_shuffling" />
         <item itemvalue="Python.palindrome_matrix" />
         <item itemvalue="Python.maximal_sum_matrix" />
-        <item itemvalue="Python.2_2_squares_matrix" />
-        <item itemvalue="Python.diagonal_difference" />
       </list>
     </recent_temporary>
   </component>
@@ -367,6 +364,16 @@
           <url>file://$PROJECT_DIR$/matrix_exercise_1/matrix_shuffling.py</url>
           <line>18</line>
           <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/matrix_exercise_1/snake_moves.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/matrix_exercise_2/bunny_kill.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
