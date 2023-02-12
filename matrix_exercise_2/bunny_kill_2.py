@@ -41,9 +41,7 @@ for c in coordinates:
                         matrix[row][column] = 0
 
 damage += sum([sum(x) for x in matrix])
-
-for element in matrix:
-    count += len([x for x in element if not x == 0])
+count += len([x for y in matrix for x in y if x != 0])
 
 print(damage)
 print(count)

@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe0c9ec-09d8-44f0-8e08-c272d3452380" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/matrix_exercise_2/air_pollution.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/matrix_exercise_2/bunny_kill_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix_exercise_2/air_pollution.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix_exercise_2/air_pollution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix_exercise_2/bunny_kill_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix_exercise_2/bunny_kill_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -382,8 +382,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/matrix_exercise_2/bunny_kill_2.py</url>
-          <line>35</line>
-          <option name="timeStamp" value="80" />
+          <line>43</line>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
