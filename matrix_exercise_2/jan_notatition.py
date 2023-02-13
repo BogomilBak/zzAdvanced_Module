@@ -14,7 +14,7 @@ operation= {
     "+": lambda a, b: a + b,
     '-': lambda a, b: a - b,
     '*': lambda a, b: a * b,
-    '/': lambda a, b: a / b
+    '/': lambda a, b: a // b
 }
 
 for element in input_line:
