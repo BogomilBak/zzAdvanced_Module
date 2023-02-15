@@ -67,8 +67,6 @@ for _ in range(count):
                 if not matrix[location[0] - max_movement][location[1]] == ".":
                     max_movement -= 1
                 else:
-                    matrix[location[0]][location[1]] = '.'
-                    matrix[location[0] - max_movement][location[1]] = 'A'
                     location[0] -= max_movement
                     break
         elif direction == "down":
@@ -78,8 +76,6 @@ for _ in range(count):
                 if not matrix[location[0] + max_movement][location[1]] == ".":
                     max_movement -= 1
                 else:
-                    matrix[location[0]][location[1]] = '.'
-                    matrix[location[0] + max_movement][location[1]] = 'A'
                     location[0] += max_movement
                     break
         elif direction == "left":
@@ -89,11 +85,8 @@ for _ in range(count):
                 if not matrix[location[0]][location[1] - max_movement] == ".":
                     max_movement -= 1
                 else:
-                    matrix[location[0]][location[1]] = '.'
-                    matrix[location[0]][location[1] - max_movement] = 'A'
                     location[1] -= max_movement
                     break
-
         elif direction == "right":
             if location[1] + steps > 4:
                 max_movement = 4 - location[1]
@@ -101,8 +94,6 @@ for _ in range(count):
                 if not matrix[location[0]][location[1] + max_movement] == ".":
                     max_movement -= 1
                 else:
-                    matrix[location[0]][location[1]] = '.'
-                    matrix[location[0]][location[1] + max_movement] = 'A'
                     location[1] += max_movement
                     break
 
