@@ -48,3 +48,5 @@ for row in range(len(matrix)):
 
 print(damage)
 print(count)
+
+matrix.sort()

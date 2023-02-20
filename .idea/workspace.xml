@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe0c9ec-09d8-44f0-8e08-c272d3452380" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/functions_advanced/cheese_showcase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_advanced/rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functions_advanced/recursive_power.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_advanced/operate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_advanced_exercise/age_assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_advanced_exercise/concatenate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_advanced_exercise/even_or_odd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_advanced_exercise/function_editor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_advanced_exercise/grocery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_advanced_exercise/keyword_argument_match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_advanced_exercise/negative_vs_positive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_advanced_exercise/numbers_filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions_advanced_exercise/recursion_palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matrix_exercise_2/bunny_kill.py" beforeDir="false" afterPath="$PROJECT_DIR$/matrix_exercise_2/bunny_kill.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +63,7 @@
   &quot;keyToString&quot;: {
     &quot;last_opened_file_path&quot;: &quot;G:/GitHub/zzAdvanced_Module/stacks_and_queues_exercise&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.idesettings.debugger.python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
     &quot;two.files.diff.last.used.folder&quot;: &quot;G:/GitHub/zzAdvanced_Module/stacks_and_queues_exercise&quot;
   }
 }</component>
@@ -64,8 +72,8 @@
     <option name="mySupportGeventDebugging" value="true" />
     <option name="myDropIntoDebuggerOnFailedTests" value="true" />
   </component>
-  <component name="RunManager" selected="Python.recursive_power">
-    <configuration name="cheese_showcase" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.age_assignment">
+    <configuration name="age_assignment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_advanced_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_advanced/cheese_showcase.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_advanced_exercise/age_assignment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multiplication_fucntion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bombs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_exercise_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_advanced/multiplication_fucntion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_exercise_1/bombs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="person_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matrix_exercise_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_advanced/person_info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matrix_exercise_1/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="operate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_advanced/rectangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_advanced/operate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursive_power" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="recursion_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_advanced" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_advanced_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_advanced/recursive_power.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_advanced_exercise/recursion_palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,19 +179,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.cheese_showcase" />
-      <item itemvalue="Python.rectangle" />
-      <item itemvalue="Python.recursive_power" />
-      <item itemvalue="Python.multiplication_fucntion" />
-      <item itemvalue="Python.person_info" />
+      <item itemvalue="Python.operate" />
+      <item itemvalue="Python.recursion_palindrome" />
+      <item itemvalue="Python.bombs" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.age_assignment" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.recursive_power" />
-        <item itemvalue="Python.rectangle" />
-        <item itemvalue="Python.cheese_showcase" />
-        <item itemvalue="Python.person_info" />
-        <item itemvalue="Python.multiplication_fucntion" />
+        <item itemvalue="Python.age_assignment" />
+        <item itemvalue="Python.operate" />
+        <item itemvalue="Python.recursion_palindrome" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.bombs" />
       </list>
     </recent_temporary>
   </component>
@@ -377,11 +385,6 @@
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/matrix_exercise_2/bunny_kill.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/matrix_exercise_2/bunny_kill_2.py</url>
           <line>43</line>
           <option name="timeStamp" value="81" />
@@ -390,11 +393,6 @@
           <url>file://$PROJECT_DIR$/matrix_exercise_2/jan_notatition.py</url>
           <line>19</line>
           <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/matrix_exercise_1/bombs.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/matrix_exercise_1/bombs.py</url>
@@ -455,6 +453,51 @@
           <url>file://$PROJECT_DIR$/functions_advanced/recursive_power.py</url>
           <line>1</line>
           <option name="timeStamp" value="117" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functions_advanced_exercise/negative_vs_positive.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functions_advanced_exercise/even_or_odd.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functions_advanced_exercise/numbers_filter.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="122" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functions_advanced_exercise/concatenate.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functions_advanced_exercise/function_editor.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functions_advanced_exercise/grocery.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functions_advanced_exercise/age_assignment.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/matrix_exercise_1/bombs.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/functions_advanced_exercise/recursion_palindrome.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="133" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
