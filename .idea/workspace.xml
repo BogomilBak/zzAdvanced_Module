@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe0c9ec-09d8-44f0-8e08-c272d3452380" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/error_handling/so_many_exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_handling/value_cannot_be_negative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_handling_exercise/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_handling_exercise/email_validator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/error_handling_exercise/numbers_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_lab/file_deleter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_lab/file_opener.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_lab/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_lab/file_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_lab/my_first_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_lab/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_lab/text.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,8 +71,8 @@
     <option name="mySupportGeventDebugging" value="true" />
     <option name="myDropIntoDebuggerOnFailedTests" value="true" />
   </component>
-  <component name="RunManager" selected="Python.repeat_text">
-    <configuration name="fill_the_box" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.file_writer">
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +80,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_advanced_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/error_handling_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_advanced_exercise/fill_the_box.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/error_handling_exercise/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="math_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_deleter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functions_advanced_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions_advanced_exercise/math_operations.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_lab/file_deleter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="repeat_text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_opener" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/error_handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/error_handling/repeat_text.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_lab/file_opener.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="so_many_exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +143,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/error_handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/error_handling/so_many_exceptions.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_lab/file_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="value_cannot_be_negative" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_writer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/error_handling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/error_handling/value_cannot_be_negative.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_lab/file_writer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,19 +178,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.fill_the_box" />
-      <item itemvalue="Python.math_operations" />
-      <item itemvalue="Python.repeat_text" />
-      <item itemvalue="Python.so_many_exceptions" />
-      <item itemvalue="Python.value_cannot_be_negative" />
+      <item itemvalue="Python.file_deleter" />
+      <item itemvalue="Python.file_opener" />
+      <item itemvalue="Python.file_reader" />
+      <item itemvalue="Python.file_writer" />
+      <item itemvalue="Python.demo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.repeat_text" />
-        <item itemvalue="Python.value_cannot_be_negative" />
-        <item itemvalue="Python.so_many_exceptions" />
-        <item itemvalue="Python.math_operations" />
-        <item itemvalue="Python.fill_the_box" />
+        <item itemvalue="Python.file_writer" />
+        <item itemvalue="Python.file_deleter" />
+        <item itemvalue="Python.file_reader" />
+        <item itemvalue="Python.file_opener" />
+        <item itemvalue="Python.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -499,6 +507,11 @@
           <url>file://$PROJECT_DIR$/functions_advanced_exercise/math_operations.py</url>
           <line>6</line>
           <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/error_handling_exercise/email_validator.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="142" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
