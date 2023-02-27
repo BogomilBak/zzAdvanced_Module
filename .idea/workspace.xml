@@ -5,16 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe0c9ec-09d8-44f0-8e08-c272d3452380" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/error_handling_exercise/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_handling_exercise/email_validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_handling_exercise/numbers_dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling_lab/file_deleter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling_lab/file_opener.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling_lab/file_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling_lab/file_writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling_lab/my_first_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling_lab/numbers.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_handling_lab/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_exercise/even_lines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_exercise/even_lines_simplified.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_exercise/file_manipulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_exercise/line_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_exercise/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_lab/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_lab/word_counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_handling_lab/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workshop_one/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,8 +70,8 @@
     <option name="mySupportGeventDebugging" value="true" />
     <option name="myDropIntoDebuggerOnFailedTests" value="true" />
   </component>
-  <component name="RunManager" selected="Python.file_writer">
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.game">
+    <configuration name="even_lines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/error_handling_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/error_handling_exercise/demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_exercise/even_lines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_deleter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="even_lines_simplified" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_lab/file_deleter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_exercise/even_lines_simplified.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_opener" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="file_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -122,11 +121,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_lab/file_opener.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_exercise/file_manipulator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +134,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,11 +142,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workshop_one" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_lab/file_reader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workshop_one/game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_writer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="line_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -164,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_exercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_lab/file_writer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_exercise/line_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,19 +177,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.file_deleter" />
-      <item itemvalue="Python.file_opener" />
-      <item itemvalue="Python.file_reader" />
-      <item itemvalue="Python.file_writer" />
-      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.game" />
+      <item itemvalue="Python.even_lines" />
+      <item itemvalue="Python.even_lines_simplified" />
+      <item itemvalue="Python.file_manipulator" />
+      <item itemvalue="Python.line_numbers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.file_writer" />
-        <item itemvalue="Python.file_deleter" />
-        <item itemvalue="Python.file_reader" />
-        <item itemvalue="Python.file_opener" />
-        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.game" />
+        <item itemvalue="Python.file_manipulator" />
+        <item itemvalue="Python.line_numbers" />
+        <item itemvalue="Python.even_lines_simplified" />
+        <item itemvalue="Python.even_lines" />
       </list>
     </recent_temporary>
   </component>
@@ -512,6 +511,11 @@
           <url>file://$PROJECT_DIR$/error_handling_exercise/email_validator.py</url>
           <line>20</line>
           <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/file_handling_exercise/file_manipulator.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="149" />
         </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
