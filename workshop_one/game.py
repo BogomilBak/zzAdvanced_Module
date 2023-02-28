@@ -18,7 +18,7 @@ directions = [
     [-1, -1],
     [-1, 1],
 ]
-board = [[["0"] * cols for row in range(rows)]]
+board = [["0"] * cols for row in range(rows)]
 
 while True:
     [print(f"[ {', '.join(row)} ]") for row in board]
