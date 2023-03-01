@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfe0c9ec-09d8-44f0-8e08-c272d3452380" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/workshop_one/game_one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/workshop_one/game_two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules_lab/askii_art.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules_lab/fibonacci_sequence_task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules_lab/logarithm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules_lab/mathem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules_lab/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules_lab/triangle/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules_lab/triangle/mathematical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules_lab/triangle/read_until_modules.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/workshop_one/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/workshop_one/game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,21 +56,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;last_opened_file_path&quot;: &quot;G:/GitHub/zzAdvanced_Module/stacks_and_queues_exercise&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
-    &quot;two.files.diff.last.used.folder&quot;: &quot;G:/GitHub/zzAdvanced_Module/stacks_and_queues_exercise&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "G:/GitHub/zzAdvanced_Module/stacks_and_queues_exercise",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "terminal",
+    "two.files.diff.last.used.folder": "G:/GitHub/zzAdvanced_Module/stacks_and_queues_exercise"
   }
-}</component>
+}]]></component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySaveCallSignatures" value="true" />
     <option name="mySupportGeventDebugging" value="true" />
     <option name="myDropIntoDebuggerOnFailedTests" value="true" />
   </component>
-  <component name="RunManager" selected="Python.game_two">
-    <configuration name="file_manipulator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.fibonacci_sequence_task">
+    <configuration name="askii_art" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_exercise/file_manipulator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules_lab/askii_art.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fibonacci_sequence_task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workshop_one" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workshop_one/game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules_lab/fibonacci_sequence_task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +112,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="game_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="logarithm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workshop_one" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workshop_one/game_one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules_lab/logarithm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +133,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="game_two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mathem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/workshop_one" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/workshop_one/game_two.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules_lab/mathem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="line_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="zzAdvanced_Module" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +162,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file_handling_exercise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modules_lab" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_handling_exercise/line_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules_lab/triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,19 +176,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.game_one" />
-      <item itemvalue="Python.game_two" />
-      <item itemvalue="Python.game" />
-      <item itemvalue="Python.file_manipulator" />
-      <item itemvalue="Python.line_numbers" />
+      <item itemvalue="Python.askii_art" />
+      <item itemvalue="Python.fibonacci_sequence_task" />
+      <item itemvalue="Python.mathem" />
+      <item itemvalue="Python.triangle" />
+      <item itemvalue="Python.logarithm" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.game_two" />
-        <item itemvalue="Python.game_one" />
-        <item itemvalue="Python.game" />
-        <item itemvalue="Python.file_manipulator" />
-        <item itemvalue="Python.line_numbers" />
+        <item itemvalue="Python.fibonacci_sequence_task" />
+        <item itemvalue="Python.mathem" />
+        <item itemvalue="Python.triangle" />
+        <item itemvalue="Python.askii_art" />
+        <item itemvalue="Python.logarithm" />
       </list>
     </recent_temporary>
   </component>
